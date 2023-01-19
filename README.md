@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Korben
 - 👀 I’m interested in a little bit of everything!
-- 🌱 I’m currently studying Python
+- 🌱 I’m currently studying Risc-V Assembly
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me: @korbexmachina on instagram
