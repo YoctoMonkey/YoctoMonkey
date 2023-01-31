@@ -2,4 +2,4 @@
 - 👀 I’m interested in a little bit of everything!
 - 🌱 I’m currently studying Risc-V Assembly
 - 💞️ I’m looking to collaborate on just about anything!
-- 📫 How to reach me: @korbexmachina on instagram
+- 📫 How to reach me: Don't (Unless you would like to interview me)
