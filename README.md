@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/GitHub-Korbexmachina-red)](https://github.com/Korbexmachina)
-![](https://img.shields.io/mastodon/follow/109372633684097444?domain=https%3A%2F%2Funiverseodon.com&style=social)
+[![](https://img.shields.io/mastodon/follow/109372633684097444?domain=https%3A%2F%2Funiverseodon.com&style=social)](https://universeodon.com/@korbexmachina)
 
 ### Hi, I’m Korben, I turn caffeine into code
 I'm a full stack developer, my favorite languages are Python and Java.
