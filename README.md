@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/GitHub-Korbexmachina-red)
+[![](https://img.shields.io/badge/GitHub-Korbexmachina-red)](https://github.com/Korbexmachina)
 
 ### Hi, I’m Korben, I turn caffeine into code
 I'm a full stack developer, my favorite languages are Python and Java.
