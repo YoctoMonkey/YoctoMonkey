@@ -4,3 +4,5 @@ I'm currently studying computer systems and RISC-V Assembly at school, and learn
 
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://komarev.com/ghpvc/?username=korbexmachina)
