@@ -11,4 +11,5 @@ If you are a fellow UCSC student check out [this](https://slugbites.azurewebsite
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+#### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/korbexmachina/count.svg)
