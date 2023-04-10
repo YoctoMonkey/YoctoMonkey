@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/GitHub-Korbexmachina-red)](https://github.com/korbexmachina)
+[![](https://img.shields.io/badge/GitHub-korbexmachina-red)](https://github.com/korbexmachina)
 [![](https://img.shields.io/mastodon/follow/109372633684097444?domain=https%3A%2F%2Funiverseodon.com&style=social)](https://universeodon.com/@korbexmachina)
 [![](https://img.shields.io/website?down_color=red&down_message=offline&label=korbexmachina.com&up_color=green&up_message=online&url=https%3A%2F%2Fwww.korbexmachina.com%2F)](https://www.korbexmachina.com/)
 
