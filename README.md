@@ -2,7 +2,8 @@
 [![](https://img.shields.io/mastodon/follow/109372633684097444?domain=https%3A%2F%2Funiverseodon.com&style=social)](https://universeodon.com/@korbexmachina)
 [![](https://img.shields.io/website?down_color=red&down_message=offline&label=korbexmachina.com&up_color=green&up_message=online&url=https%3A%2F%2Fwww.korbexmachina.com%2F)](https://www.korbexmachina.com/)
 
-### Hi, I’m Korben, I turn caffeine into code
+### Hi, I’m Korben
+#### I turn caffeine into code
 I'm a full stack developer, my favorite languages are Python and Java.
 I'm currently studying C and discreet math at school, and working on my web development skills in my free time.
 
