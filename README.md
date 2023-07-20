@@ -5,7 +5,7 @@
 ### Hi, I’m Korben
 #### I turn caffeine into code
 I'm a full stack developer, my favorite languages are Python and Java.
-I'm currently studying C and discrete math at school, and working on my web development skills in my free time.
+I'm currently on summer break, learning vector calculus and writing a bit of code here and there.
 
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
