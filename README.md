@@ -3,7 +3,7 @@
 [![](https://img.shields.io/website?down_color=red&down_message=offline&label=korbexmachina.com&up_color=green&up_message=online&url=https%3A%2F%2Fwww.korbexmachina.com%2F)](https://www.korbexmachina.com/)
 
 ### Hi, I’m Korben
-#### I turn caffeine into code
+__I turn caffeine into code__
 My favorite languages are C and Go.
 I'm currently on summer break, learning vector calculus and writing a bit of code here and there.
 
