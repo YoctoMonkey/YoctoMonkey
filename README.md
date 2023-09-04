@@ -4,7 +4,9 @@
 
 ### Hi, I’m Korben
 __I turn caffeine into code__
+
 My favorite languages are C and Go.
+
 I'm currently on summer break, learning vector calculus and writing a bit of code here and there.
 
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
