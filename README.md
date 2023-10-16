@@ -6,7 +6,7 @@ __I turn caffeine into code__
 
 My favorite languages are C and Go.
 
-I'm currently on summer break, learning vector calculus and writing a bit of code here and there.
+I'm currently learning statistics and algorithms at school, and I am learning Rust 🦀 in my free time.
 
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
