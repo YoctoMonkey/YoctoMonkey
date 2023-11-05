@@ -8,6 +8,8 @@ My favorite languages are C and Go.
 
 I'm currently learning statistics and algorithms at school, and I am learning Rust 🦀 in my free time.
 
+I'm interested in integrating AI into applications.
+
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/korbexmachina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
