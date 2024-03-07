@@ -7,7 +7,7 @@ __I turn caffeine into code__
 
 My favorite languages are C and Go.
 
-I'm currently studying statistics and algorithms at school, and I am learning Rust 🦀 in my free time.
+I'm currently studying data structures and computer architecture at school, and I am learning Rust 🦀 in my free time.
 
 I'm interested in integrating AI into applications.
 
