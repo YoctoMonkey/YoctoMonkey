@@ -7,7 +7,7 @@ __I turn caffeine into code__
 
 My favorite languages are C and Go.
 
-I'm currently studying data structures and computer architecture at school, and I am learning Gleam ✨ in my free time.
+I'm currently studying computer systems and compilers at school, and I am learning Gleam ✨ in my free time.
 
 I'm interested in computer systems, compilers, and integrating AI into applications.
 
