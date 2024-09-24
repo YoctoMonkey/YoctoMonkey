@@ -5,9 +5,9 @@
 ### Hi, I’m Korben
 __I turn caffeine into code__
 
-My favorite languages are C and Go.
+My favorite languages are Rust, C, and Go.
 
-I'm currently studying computer systems at school, and I am learning Rust 🦀 in my free time.
+I'm currently learning about operating systems and kernel design.
 
 I'm interested in distributed systems and artificial intelligence.
 
