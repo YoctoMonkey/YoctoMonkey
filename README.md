@@ -6,6 +6,3 @@
 
 I'm a 3rd year student at UCSC studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and and declarative package management (nix!) ❄️.
-
-#### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/korbexmachina/count.svg)
