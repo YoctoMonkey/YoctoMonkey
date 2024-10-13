@@ -6,3 +6,5 @@
 
 I'm a 3rd year student at UCSC studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and and declarative package management (nix!) ❄️.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
