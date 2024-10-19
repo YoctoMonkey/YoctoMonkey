@@ -2,7 +2,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/korbexmachina)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkorbexmachina.com&up_message=online&down_message=offline&style=for-the-badge&logo=htmx)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.korbexmachina.com&up_message=online&down_message=offline&style=for-the-badge&logo=rss)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.korbexmachina.com&up_message=online&down_message=offline&style=for-the-badge&logo=rss&label=blog)
 
 ### Hi, I’m Korben
 
