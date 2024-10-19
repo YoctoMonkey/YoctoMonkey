@@ -1,6 +1,8 @@
-[![](https://img.shields.io/badge/GitHub-korbexmachina-blue)](https://github.com/korbexmachina)
-[![](https://img.shields.io/website?down_color=red&down_message=offline&label=korbexmachina.com&up_color=green&up_message=online&url=https%3A%2F%2Fwww.korbexmachina.com%2F)](https://www.korbexmachina.com/)
-[![](https://img.shields.io/website?down_color=red&down_message=offline&label=blog&up_color=green&up_message=online&url=https%3A%2F%2Fblog.korbexmachina.com%2F)](https://blog.korbexmachina.com/)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/111241682444252760?domain=https%3A%2F%2Fmstdn.social)
+![GitHub User's stars](https://img.shields.io/github/stars/korbexmachina)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fkorbexmachina.com&up_message=online&down_message=offline&style=for-the-badge&logo=htmx)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.korbexmachina.com&up_message=online&down_message=offline&style=for-the-badge&logo=rss)
 
 ### Hi, I’m Korben
 
