@@ -1,4 +1,4 @@
-![Mastodon Follow](https://img.shields.io/mastodon/follow/111241682444252760?domain=https%3A%2F%2Fmstdn.social)
+<a href="https://mstdn.social/@korbexmachina"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/111241682444252760?domain=https%3A%2F%2Fmstdn.social"></a>
 ![GitHub User's stars](https://img.shields.io/github/stars/korbexmachina)
 
 <a href="https://korbexmachina.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fkorbexmachina.com&style=for-the-badge&logo=htmx"></a>
