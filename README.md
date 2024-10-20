@@ -10,6 +10,8 @@ I'm a 3rd year student at UCSC studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and declarative package management (nix!) ❄️.
 I really enjoy computer systems, and optimization problems.
 
+I don't post on social media very often, but if you would like to keep up with me, then [🦣 Mastodon](https://mstdn.social/@korbexmachina) is the place to be!
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
