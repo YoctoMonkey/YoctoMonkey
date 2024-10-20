@@ -7,7 +7,7 @@
 ### Hi, I’m Korben
 
 I'm a 3rd year student at UCSC studying computer science and mathematics.
-I like programming in rust 🦀, drinking tea ☕, and and declarative package management (nix!) ❄️.
+I like programming in rust 🦀, drinking tea ☕, and declarative package management (nix!) ❄️.
 I really enjoy computer systems, and optimization problems.
 
 ---
