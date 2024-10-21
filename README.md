@@ -15,3 +15,11 @@ I don't post on social media very often, but if you would like to keep up with m
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## Contact Me
+
+Feel free to reach out if you would like to chat, collaborate, or ask a question!
+
+**contact at korbexmachina dot com**
