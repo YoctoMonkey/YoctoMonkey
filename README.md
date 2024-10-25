@@ -45,7 +45,8 @@ I don't post on social media very often, but if you would like to keep up with m
 
 Feel free to reach out if you would like to chat, collaborate, or ask a question!
 
-**contact at korbexmachina dot com**
+[![Static Badge](https://img.shields.io/badge/Email-_?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnIGZpbGw9J25vbmUnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc%2BPGcgaWQ9J1NWR1JlcG9fYmdDYXJyaWVyJyBzdHJva2Utd2lkdGg9JzAnPjwvZz48ZyBpZD0nU1ZHUmVwb190cmFjZXJDYXJyaWVyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjwvZz48ZyBpZD0nU1ZHUmVwb19pY29uQ2Fycmllcic%2BPHBhdGggZmlsbC1ydWxlPSdldmVub2RkJyBjbGlwLXJ1bGU9J2V2ZW5vZGQnIGQ9J00zLjc1IDUuMjVMMyA2VjE4TDMuNzUgMTguNzVIMjAuMjVMMjEgMThWNkwyMC4yNSA1LjI1SDMuNzVaTTQuNSA3LjY5NTVWMTcuMjVIMTkuNVY3LjY5NTI1TDExLjk5OTkgMTQuNTEzNkw0LjUgNy42OTU1Wk0xOC4zMDk5IDYuNzVINS42ODk4NkwxMS45OTk5IDEyLjQ4NjRMMTguMzA5OSA2Ljc1WicgZmlsbD0nIzA4MDM0MSc%2BPC9wYXRoPjwvZz48L3N2Zz4%3D&color=white)](mailto:contact@korbexmachina.com)
+[![Static Badge](https://img.shields.io/badge/matrix-_?style=for-the-badge&logo=matrix&color=black)](https://matrix.to/#/@korbexmachina:matrix.org)
 
 ---
 
