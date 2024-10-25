@@ -39,8 +39,6 @@ I don't post on social media very often, but if you would like to keep up with m
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=korbexmachina&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## Contact Me
