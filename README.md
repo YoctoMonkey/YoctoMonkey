@@ -46,3 +46,7 @@ I don't post on social media very often, but if you would like to keep up with m
 Feel free to reach out if you would like to chat, collaborate, or ask a question!
 
 **contact at korbexmachina dot com**
+
+---
+
+<a href="https://brainmade.org/"><img alt="Website" src="https://brainmade.org/white-logo.png" width="10%" height="10%"></a>
