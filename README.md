@@ -4,9 +4,9 @@
 <a href="https://korbexmachina.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fkorbexmachina.com&style=for-the-badge&logo=htmx"></a>
 <a href="https://blog.korbexmachina.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fblog.korbexmachina.com&style=for-the-badge&logo=rss&label=blog"></a>
 
-### Hi, I’m Korben
+## Introduction
 
-I'm a 3rd year student at UCSC studying computer science and mathematics.
+Hi, my name is Korben, I'm a 3rd year student at UCSC studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and declarative configuration (nix!) ❄️.
 I really enjoy computer systems, and optimization problems.
 
