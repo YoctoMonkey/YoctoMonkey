@@ -49,4 +49,4 @@ Feel free to reach out if you would like to chat, collaborate, or ask a question
 
 ---
 
-<a href="https://brainmade.org/"><img alt="Website" src="https://brainmade.org/white-logo.png" width="10%" height="10%"></a>
+<a href="https://brainmade.org/"><img alt="Website" src="https://brainmade.org/black-logo.png" width="10%" height="10%"></a>
