@@ -14,6 +14,29 @@ I don't post on social media very often, but if you would like to keep up with m
 
 ---
 
+## Favourite Tools
+
+### Languages
+
+![Static Badge](https://img.shields.io/badge/Rust-_?style=for-the-badge&logo=Rust&color=orange)
+![Static Badge](https://img.shields.io/badge/Go-_?style=for-the-badge&logo=go&color=lightblue)
+![Static Badge](https://img.shields.io/badge/C-_?style=for-the-badge&logo=c&color=white)
+![Static Badge](https://img.shields.io/badge/Python-_?style=for-the-badge&logo=python&logoColor=4B8BBE&color=FFE873)
+![Static Badge](https://img.shields.io/badge/Bash-_?style=for-the-badge&logo=gnubash&color=black)
+![Static Badge](https://img.shields.io/badge/Gleam-_?style=for-the-badge&logo=gleam&color=f3b2ef)
+![Static Badge](https://img.shields.io/badge/RISCV-_?style=for-the-badge&logo=riscv&color=darkblue)
+
+### Other
+
+![Static Badge](https://img.shields.io/badge/Nix-_?style=for-the-badge&logo=nixos&color=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-_?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/SQLite-_?style=for-the-badge&logo=sqlite&color=teal)
+![Static Badge](https://img.shields.io/badge/Docker-_?style=for-the-badge&logo=docker&color=white)
+![Static Badge](https://img.shields.io/badge/GitHub_Actions-_?style=for-the-badge&logo=githubactions&logoColor=lightblue&color=black)
+![Static Badge](https://img.shields.io/badge/Ollama-_?style=for-the-badge&logo=ollama&color=gray)
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 ---
