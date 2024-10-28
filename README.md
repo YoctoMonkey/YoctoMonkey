@@ -8,7 +8,7 @@
 
 Hi, my name is Korben. I'm a 3rd year student at UCSC, studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and declarative configuration (nix!) ❄️.
-I really enjoy computer systems, and optimization problems.
+I enjoy computer systems, and optimization problems.
 
 I don't post on social media very often, but if you would like to keep up with me, then [🦣 Mastodon](https://mstdn.social/@korbexmachina) is the place to be!
 
