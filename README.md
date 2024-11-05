@@ -11,6 +11,7 @@ I like programming in rust 🦀, drinking tea ☕, and declarative configuration
 I enjoy working on computer systems, and optimization problems.
 
 I don't post on social media very often, but if you would like to keep up with me, then [🦣 Mastodon](https://mstdn.social/@korbexmachina) is the place to be!
+You can also check out my [🖋️ blog](https://blog.korbexmachina.com)!
 
 ---
 
