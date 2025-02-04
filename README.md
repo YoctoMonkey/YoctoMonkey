@@ -44,10 +44,6 @@ You can also check out my [🖋️ blog](https://blog.korbexmachina.com)!
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=korbexmachina&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Contact Me
 
 Feel free to reach out if you would like to chat, collaborate, or ask a question!
